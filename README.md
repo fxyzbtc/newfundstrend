@@ -25,5 +25,7 @@ fundindice.py
 
 ## 捐助
 如果你对这个工具感兴趣，可以捐助我喝杯咖啡哦
-
 <img width="200" alt="portfolio_view" src="docs/wecash.png">
+
+我的公众号会有一些其他投资工具和方法的经验分享
+<img width="200" alt="portfolio_view" src="docs/qr.png">
