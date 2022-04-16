@@ -95,10 +95,6 @@ def to_login(next_window):
         else:
             from PySide2.QtWidgets import QMessageBox
             msg = QMessageBox()
-            msg.setIcon(QMessageBox.Critical)
-            icon = QtGui.QIcon()
-            icon.addPixmap(QtGui.QPixmap("cookie.ico"), QtGui.QIcon.Normal, QtGui.QIcon.On)
-            msg.setWindowIcon(icon)
             msg.setText("请重新输入")
             msg.setInformativeText("或者添加公众号获取密码")
             msg.setWindowTitle("密码错误")
